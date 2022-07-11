@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657498483 source:/home/alessandro/CodeBlocksProjects/BytSizePrinter/main.c
+	<stdio.h>
+	<stdlib.h>
+
